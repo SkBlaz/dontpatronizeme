@@ -8,7 +8,7 @@ In this task, we invite participants to detect patronizing and condescending lan
 
 ### Get the training data
 
-Data and base model available [here]([https://forms.gle/VN8hwbdGYkf5KHiKA](https://huggingface.co/collections/carlaperez/dont-patronize-me)).
+Data and base model available [here](https://huggingface.co/collections/carlaperez/dont-patronize-me).
 
 ### Quick start!
 
